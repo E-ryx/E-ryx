@@ -4,6 +4,15 @@
 
 <p align="left">💻 Backend Developer | Problem Solver | Tech Enthusiast<br><br>Hi there! I'm a motivated and self-driven Backend Developer with solid experience in C# / ASP.NET Core and PHP / Laravel.  <br>I enjoy crafting robust APIs and real-world web applications, and I’m always eager to tackle complex problems.<br><br>🚀 Passionate about backend development  <br>🧠 Quick to learn new technologies  <br>🤝 Love collaborating in team environments  <br>📈 Always looking to grow as an engineer</p>
 
+
+###
+
+<h2 align="left">📬 Contact Me</h2>
+
+<p align="left">
+  📧 Email: <a href="mailto:moeinipoorali@gmail.com">moeinipoorali@gmail.com</a>
+</p>
+
 ###
 
 <h2 align="left">I code with</h2>
